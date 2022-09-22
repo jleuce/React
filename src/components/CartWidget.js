@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CardWidget = () => {
+const CartWidget = () => {
   return (
     <div className="card w-96 bg-base-100 shadow-xl">
     <figure className="px-10 pt-10">
@@ -10,4 +10,4 @@ const CardWidget = () => {
   )
 }
 
-export default CardWidget
+export default CartWidget
